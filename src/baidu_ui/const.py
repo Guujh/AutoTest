@@ -1,3 +1,3 @@
 
 
-EXCEL_DIR="/Users/小万/PycharmProjects/untitled1/venv/Scripts/pytest.demo/data/search_query.xlsx"
+EXCEL_DIR="F:/jenkins/workspace/auto-httpbin-api/data/search_query.xlsx"
